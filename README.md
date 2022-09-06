@@ -271,3 +271,9 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
     <li><a href="mailto:3nshimiye@gmail.com">e-mail</a></li>
     </ul>
 </details>
+<details>
+    <summary>Isabelle Bucyeyeneza</summary>
+    <ul>
+    <li><a href="https://www.github.com/izaxy12">Github</a></li>
+    </ul>
+</details>
